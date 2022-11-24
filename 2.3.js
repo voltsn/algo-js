@@ -15,7 +15,7 @@ while (counter <= upperBound){
 
 // for loop edition.
 for (let i = lowerBound; i <= upperBound; i++){
-    if (i % 2 == 0){
+    if (i % 2 === 0){
         console.log(i);
     }
 }

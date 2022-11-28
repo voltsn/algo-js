@@ -7,3 +7,5 @@ module offered by BeCode.
 - [x] Arrays
 - [x] Control Structures
 - [x] Functions 
+- [x] Objects
+- [x] Classes

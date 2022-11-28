@@ -5,5 +5,5 @@ module offered by BeCode.
 - [x] Variables
 - [x] Operators
 - [x] Arrays
-- [x] Controle Structures
+- [x] Control Structures
 - [x] Functions 
